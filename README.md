@@ -1,6 +1,15 @@
-## OPSEC Checklist
+# OPSEC Checklist
 
 Brought to you by [Eliott Teissonniere](https://eliott.teissonniere.org).
+
+## Goals
+
+- Provide simple steps that anyone can follow to increase their own safety on the digital world.
+- Provide a support for dicussion during security related talks
+- Avoid promoting paronoid advices, this should be understandable by most people
+
+
+## A few steps to check
 
 ### Accounts
 
